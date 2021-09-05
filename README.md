@@ -2,7 +2,8 @@
 - 👀 I’m interested in Solving Problems
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence
 - 💞️ I’m looking to collaborate on Various Valueable Projects that can help someone.
-- 📫 How to reach me nikhilmahana.412@gmail.com
+- 📫 How to reach me nikhilmahana.412@gmail.com or nikhilmahana.412@yahoo.com 
+
 
 <!---
 NikhilMahana/NikhilMahana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
