@@ -9,6 +9,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilMahana&" alt="NikhilMahana" /></p>
 
 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NikhilMahana&show_icons=true&theme=algolia&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilMahana&" />
+</a>
 
 
 
