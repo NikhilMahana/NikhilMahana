@@ -8,24 +8,16 @@
 
 
 
-
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NikhilMahana&show_icons=true&theme=algolia&count_private=true" />
-</a>
-
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilMahana&" />
-</a></p>
-
-
-
-
- <p> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilMahana&theme=blue-green" />
-</a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=NikhilMahana&theme=algolia&column=3&margin-w=15&margin-h=15" />
-</a></p>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=NikhilMahana&column=8&theme=algolia&no-frame=true"/>
+</a>
 
-
-
+---
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=NikhilMahana&theme=algolia&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilMahana&layout=compact&theme=blue-green" />
+</div>
 
 <!---
 NikhilMahana/NikhilMahana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
