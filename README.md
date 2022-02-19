@@ -21,7 +21,7 @@
  <p> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilMahana&theme=blue-green" />
 </a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=NikhilMahana&theme=algolia" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=NikhilMahana&theme=algolia&column=3&margin-w=15&margin-h=15" />
 </a></p>
 
 
