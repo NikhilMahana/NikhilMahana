@@ -4,6 +4,16 @@
 - 💞️ I’m looking to collaborate on Various Valueable Projects that can help someone.
 - 📫 How to reach me nikhilmahana.412@gmail.com or nikhilmahana.412@yahoo.com 
 
+### 📊 My Github Stats
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilMahana&" alt="NikhilMahana" /></p>
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NikhilMahana&show_icons=true&theme=algolia&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilMahana&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!---
 NikhilMahana/NikhilMahana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
