@@ -24,7 +24,7 @@ jobs:
            # Use this username's contribution graph  
            user_name: jasineri
            # Text on contribution graph 
-           text: NIKHIL MAHANA
+           text: NIKHIL 
       - uses: jasineri/simple-push-action@v1
   # This workflow contains a single job called "build"
  
