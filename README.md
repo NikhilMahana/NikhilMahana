@@ -22,11 +22,11 @@
   <img height="170" src="https://github-profile-trophy.vercel.app/?username=NikhilMahana&column=8&theme=algolia&no-frame=true"/>
 </a>
 
----
+
 <h2>📊 Github Stats</h2>
 <p>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=NikhilMahana&theme=algolia&count_private=true&include_all_commits=true" />
-  <img height="170" align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilMahana&layout=compact&theme=blue-green" />
+  <img height="100" align="left" src="https://github-readme-stats.vercel.app/api?username=NikhilMahana&theme=algolia&count_private=true&include_all_commits=true" />
+  <img height="100" align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilMahana&layout=compact&theme=blue-green" />
 </p>
 
 <!---
