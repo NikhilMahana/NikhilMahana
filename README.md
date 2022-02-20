@@ -41,11 +41,13 @@
 
 
 <h2>📊 Github Stats</h2>
-<p><img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=NikhilMahana&theme=algolia&count_private=true&include_all_commits=true" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilMahana&theme=yeblu" height="150"  />
- <br/>
+<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilMahana&theme=yeblu" alt="VagishaGupta9" /></p>
 
-<div align="center"><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilMahana&layout=compact&theme=blue-green" /></div></p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NikhilMahana&show_icons=true&theme=algolia&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilMahana&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 NikhilMahana/NikhilMahana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
