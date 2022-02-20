@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 </div>
-<div align="center"><img src="https://komarev.com/ghpvc/?username=NikhilMahana&style=flat-square&color=green" alt=""/></div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=NikhilMahana&style=circle&color=green" alt=""/></div>
 
 <h2>🚀 About me</h2>
 
