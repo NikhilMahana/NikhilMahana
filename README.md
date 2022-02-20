@@ -1,6 +1,6 @@
 [![NikhilMahana/gitartwork](https://github.com/NikhilMahana/NikhilMahana/blob/imgbot/gitartwork.svg)](https://github.com/NikhilMahana/gitartwork/)
 <h2>🚀 About me</h2>
-- 👋 Hi, I’m NikhilMahana
+-👋 Hi, I’m NikhilMahana
 <p align="center">
   <a href="https://github.com/NikhilMahana"><img src="https://readme-typing-svg.herokuapp.com/?font=segoe+script&color=%2356F3F7&lines=Website%20Designer;Freelancer;Wanna%20be%20a%20data%20scientist;Create%20ML%20Models&center=true&width=480&height=75"></a>
 </p>
@@ -21,10 +21,10 @@
 
 ---
 <h2>📊 Github Stats</h2>
-<div>
+<p>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=NikhilMahana&theme=algolia&count_private=true&include_all_commits=true" />
   <img height="170" align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilMahana&layout=compact&theme=blue-green" />
-</div>
+</p>
 
 <!---
 NikhilMahana/NikhilMahana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
