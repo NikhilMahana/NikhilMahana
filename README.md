@@ -1,10 +1,12 @@
 [![NikhilMahana/gitartwork](https://github.com/NikhilMahana/NikhilMahana/blob/imgbot/gitartwork.svg)](https://github.com/NikhilMahana/gitartwork/)
-<h2>🚀 About me</h2>
-
- 👋 Hi, I’m Nikhil Mahana
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<img src="https://komarev.com/ghpvc/?username=NikhilMahana&style=flat-square&color=green" alt=""/>
+<h2>🚀 About me</h2>
+
+ 👋 Hi, I’m Nikhil Mahana
+
 <p align="center">
   <a href="https://github.com/NikhilMahana"><img src="https://readme-typing-svg.herokuapp.com/?font=segoe+script&color=%2356F3F7&lines=Website%20Designer;Freelancer;Wanna%20be%20a%20data%20scientist;Create%20ML%20Models&center=true&width=480&height=75"></a>
 </p>
