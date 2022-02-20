@@ -1,6 +1,6 @@
 [![NikhilMahana/gitartwork](https://github.com/NikhilMahana/NikhilMahana/blob/imgbot/gitartwork.svg)](https://github.com/NikhilMahana/gitartwork/)
 <h2>🚀 About me</h2>
--👋 Hi, I’m NikhilMahana
+ 👋 Hi, I’m NikhilMahana
 <p align="center">
   <a href="https://github.com/NikhilMahana"><img src="https://readme-typing-svg.herokuapp.com/?font=segoe+script&color=%2356F3F7&lines=Website%20Designer;Freelancer;Wanna%20be%20a%20data%20scientist;Create%20ML%20Models&center=true&width=480&height=75"></a>
 </p>
@@ -10,7 +10,10 @@
 - 💞️ I’m looking to collaborate on Various Valueable Projects that can help someone.
 - 📫 How to reach me nikhilmahana.412@gmail.com or nikhilmahana.412@yahoo.com 
 
-
+<h2>📨 Connect with me</h2>
+<p><a href="https://www.linkedin.com/in/nikhilmahana/"><img align="left" alt="LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
+<a href="https://leetcode.com/NikhilMahana/"><img align="left" alt="Leetcode" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" /></a>
+<a href="mailto:nikhilmahana.412@yahoo.com"><img align="left"  height="30" width="40" src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" alt="Instagram"></a><a href="https://www.instagram.com/nikhil__mahana/"><img align="left" alt="Instagram" height="30" width="40" src="https://www.pikpng.com/pngl/m/184-1841066_instagram-circle-png.png" /><a href="https://www.hackerrank.com/nikhilmahana_412"><img align="left" alt="Hackerrank" height="30" width="40" src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047"/></a></a></p>
 
 
 
