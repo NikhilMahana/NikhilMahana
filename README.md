@@ -41,11 +41,11 @@
 
 
 <h2>📊 Github Stats</h2>
-<p>
-  <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=NikhilMahana&theme=algolia&count_private=true&include_all_commits=true" />
+<p><img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=NikhilMahana&theme=algolia&count_private=true&include_all_commits=true" />
   <img height="150" align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilMahana&layout=compact&theme=blue-green" /></p>
+  ---
   
-  <br />
+  
 
 <p><div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilMahana&theme=yeblu" height="150"  alt="NikhilMahana" /></div></p>
 
