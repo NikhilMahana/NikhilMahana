@@ -1,9 +1,9 @@
 [![NikhilMahana/gitartwork](https://github.com/NikhilMahana/NikhilMahana/blob/imgbot/gitartwork.svg)](https://github.com/NikhilMahana/gitartwork/)
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
- <img src="https://komarev.com/ghpvc/?username=NikhilMahana&style=flat-square&color=green" alt=""/>
-</div>
 
+</div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=NikhilMahana&style=flat-square&color=green" alt=""/></div>
 
 <h2>🚀 About me</h2>
 
