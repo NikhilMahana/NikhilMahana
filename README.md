@@ -27,9 +27,7 @@
 <p>
   <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=NikhilMahana&theme=algolia&count_private=true&include_all_commits=true" />
   <img height="150" align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilMahana&layout=compact&theme=blue-green" />
-</p>
-<br />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VagishaGupta9&theme=yeblu" alt="NikhilMahana" height="150" /></p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilMahana&theme=yeblu" alt="NikhilMahana" height="150" /></p>
 
 <!---
 NikhilMahana/NikhilMahana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
