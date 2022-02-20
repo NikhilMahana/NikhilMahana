@@ -36,12 +36,12 @@
 
 <h2>🏆 Github Profile Trophy</h2>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img height="170" src="https://github-profile-trophy.vercel.app/?username=NikhilMahana&column=8&theme=algolia&no-frame=true"/>
+  <img height="180" src="https://github-profile-trophy.vercel.app/?username=NikhilMahana&column=8&theme=algolia&no-frame=true"/>
 </a>
 
 
 <h2>📊 Github Stats</h2>
-<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilMahana&theme=outrun" alt="NikhilMahana" /></p>
+<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilMahana&theme=aura" alt="NikhilMahana" /></p>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NikhilMahana&show_icons=true&theme=algolia&count_private=true)
