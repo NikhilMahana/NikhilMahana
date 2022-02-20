@@ -47,7 +47,7 @@
   
   <br />
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilMahana&theme=yeblu"  alt="NikhilMahana" /></div>
+<p><div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilMahana&theme=yeblu" height="150"  alt="NikhilMahana" /></div></p>
 
 <!---
 NikhilMahana/NikhilMahana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
