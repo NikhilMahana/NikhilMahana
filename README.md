@@ -1,9 +1,10 @@
 [![NikhilMahana/gitartwork](https://github.com/NikhilMahana/NikhilMahana/blob/imgbot/gitartwork.svg)](https://github.com/NikhilMahana/gitartwork/)
 <h2>🚀 About me</h2>
 - 👋 Hi, I’m NikhilMahana
-- <p align="center">
+<p align="center">
   <a href="https://github.com/NikhilMahana"><img src="https://readme-typing-svg.herokuapp.com/?font=segoe+script&color=%2356F3F7&lines=Website%20Designer;Freelancer;Wanna%20be%20a%20data%20scientist;Create%20ML%20Models&center=true&width=480&height=75"></a>
 </p>
+
 - 👀 I’m interested in Solving Problems
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence
 - 💞️ I’m looking to collaborate on Various Valueable Projects that can help someone.
